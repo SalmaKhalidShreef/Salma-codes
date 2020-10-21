@@ -1,0 +1,126 @@
+.navbar{
+  background-color: #e3f5fa ;
+}
+.nav-link{
+  font-size: 150%;
+}
+nav a{
+  color: #215870;
+    padding: 14px 30px;
+    margin: 15px;
+    text-align: center;
+}
+
+nav a:focus{
+  background-color: #ffffff;
+}
+nav a:hover{
+  color: green;
+
+}
+
+nav a:active {
+ background-color: #ffffff;
+}
+body {
+    padding-top: 10%;
+    width: 100%;
+}
+@media (min-width: 767px) {
+  .img-fluid {
+    width: 50%;
+    margin-right:2%;
+    margin-left:2%;
+
+  }
+}
+.row{
+  padding-top: 9%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+i{
+  font-size:900%;
+  padding: 5%;
+}
+.fa-java{
+  color: tomato;
+}
+.fa-html5{
+  color: orange;
+}
+.fa-css3-alt{
+  color: blue;
+}
+.fa-js-square{
+  color: yellow;
+}
+.fa-bootstrap{
+  color: purple;
+}
+h2{
+  color :#1e5f82;
+}
+footer a {
+  font-size:300%;
+}
+footer i {
+  font-size:300%;
+}
+footer{
+ width:100%;
+}
+.fa-envelope{
+  padding-right:1%;
+}
+html,body{
+    height: 100%
+}
+footer a{
+  text-decoration: none;
+  color: #215870;
+}
+.send{
+  font-size: 180% !important;
+}
+.carousel a {
+  text-decoration: none;
+  color: white;
+}
+
+.blackText{
+  color: black;
+}
+html {
+  scroll-behavior: smooth;
+}
+.animate__animated.animate__bounce {
+  --animate-duration: 2s;
+}
+:root{
+  animation-delay: 2s;
+}
+#reveal1 {
+		opacity: 0;
+		-webkit-transform: scale(0.9);
+			 -moz-transform: scale(0.9);
+				-ms-transform: scale(0.9);
+				 -o-transform: scale(0.9);
+						transform: scale(0.9);
+		-webkit-transition: all 1s ease-in-out;
+			 -moz-transition: all 1s ease-in-out;
+				-ms-transition: all 1s ease-in-out;
+				 -o-transition: all 1s ease-in-out;
+						transition: all 1s ease-in-out;
+	}
+	#reveal1.visible {
+		opacity: 1;
+		-webkit-transform: none;
+			 -moz-transform: none;
+				-ms-transform: none;
+				 -o-transform: none;
+						transform: none;
+	}
+  p{
+    font-size: 150%;
+  }

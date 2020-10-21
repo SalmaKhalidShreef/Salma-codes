@@ -1,0 +1,19 @@
+html {
+  scroll-behavior: smooth;
+}
+.fa-linkedin-in{
+  color: blue;
+}
+.fa-map-marker-alt{
+  color: red;
+}
+.fa-phone{
+  color: green;
+}
+.fa-envelope{
+  color: orange;
+}
+a{
+  text-decoration: none;
+  color: #215870;
+}
